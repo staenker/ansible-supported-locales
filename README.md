@@ -1,5 +1,6 @@
 staenker.supported-locales
 =========
+[![Ansible Galaxy](http://img.shields.io/badge/AnsibleGalaxy-staenker.supported-locales-blue.svg?style=flat)](https://galaxy.ansible.com/list#/roles/2124)
 
 Ensures that a given list of locales is generated on a Debian based system.
 Basically it's a simple abstraction over the Ansible locale_gen module which
