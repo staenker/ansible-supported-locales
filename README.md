@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: staenker.supported-locales, locales: [ en_US.UTF-8, de_DE.UTF-8, ru_RU.UTF-8 ] }
+         - { role: staenker.supported-locales, locales: [ de_DE.UTF-8, ru_RU.UTF-8 ] }
 
 License
 -------
